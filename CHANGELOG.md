@@ -7,3 +7,4 @@
 - polish naming
 - tighten main loop
 - clean up state handling
+- tighten config handling
