@@ -6,3 +6,4 @@
 - polish output formatting
 - polish naming
 - tighten main loop
+- clean up state handling
