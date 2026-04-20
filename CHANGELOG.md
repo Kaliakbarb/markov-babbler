@@ -5,3 +5,4 @@
 - refine startup flow
 - polish output formatting
 - polish naming
+- tighten main loop
