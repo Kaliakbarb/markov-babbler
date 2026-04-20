@@ -3,3 +3,4 @@
 - clean up docs wording
 - tighten edge case handling
 - refine startup flow
+- polish output formatting
