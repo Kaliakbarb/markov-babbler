@@ -9,3 +9,4 @@
 - clean up state handling
 - tighten config handling
 - polish main loop
+- improve startup flow
