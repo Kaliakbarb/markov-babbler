@@ -13,3 +13,4 @@
 - simplify main loop
 - adjust startup flow
 - improve naming
+- rework startup flow
