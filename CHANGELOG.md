@@ -11,3 +11,4 @@
 - polish main loop
 - improve startup flow
 - simplify main loop
+- adjust startup flow
