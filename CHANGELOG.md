@@ -10,3 +10,4 @@
 - tighten config handling
 - polish main loop
 - improve startup flow
+- simplify main loop
