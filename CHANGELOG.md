@@ -14,3 +14,4 @@
 - adjust startup flow
 - improve naming
 - rework startup flow
+- adjust error handling
