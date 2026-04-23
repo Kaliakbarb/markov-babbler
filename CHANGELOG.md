@@ -16,3 +16,4 @@
 - rework startup flow
 - adjust error handling
 - tighten error handling
+- refine validation
