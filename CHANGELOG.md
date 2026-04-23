@@ -19,3 +19,4 @@
 - refine validation
 - polish startup flow
 - simplify edge case handling
+- clean up edge case handling
