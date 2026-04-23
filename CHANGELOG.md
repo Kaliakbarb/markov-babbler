@@ -17,3 +17,4 @@
 - adjust error handling
 - tighten error handling
 - refine validation
+- polish startup flow
