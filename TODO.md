@@ -10,3 +10,4 @@
 - [ ] add examples to the readme
 - [ ] refactor into modules
 - [ ] performance pass
+- [ ] keyboard shortcuts
