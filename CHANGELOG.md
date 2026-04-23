@@ -18,3 +18,4 @@
 - tighten error handling
 - refine validation
 - polish startup flow
+- simplify edge case handling
