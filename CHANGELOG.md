@@ -26,3 +26,4 @@
 - adjust input parsing
 - tweak output formatting
 - fix docs wording
+- fix validation
