@@ -22,3 +22,4 @@
 - clean up edge case handling
 - fix help text
 - rework input parsing
+- rework state handling
