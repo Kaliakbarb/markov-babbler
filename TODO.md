@@ -11,3 +11,4 @@
 - [ ] refactor into modules
 - [ ] performance pass
 - [ ] keyboard shortcuts
+- [ ] dark mode
