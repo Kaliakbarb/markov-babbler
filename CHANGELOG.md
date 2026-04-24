@@ -23,3 +23,4 @@
 - fix help text
 - rework input parsing
 - rework state handling
+- adjust input parsing
