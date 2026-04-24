@@ -21,3 +21,4 @@
 - simplify edge case handling
 - clean up edge case handling
 - fix help text
+- rework input parsing
