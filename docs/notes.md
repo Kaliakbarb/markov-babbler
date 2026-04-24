@@ -5,3 +5,4 @@
 - wrote down ideas from a blog post I read today
 - thought about a plugin system - overkill for now
 - found a nicer color palette, may switch later
+- removed dead code left from the prototype
