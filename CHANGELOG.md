@@ -24,3 +24,4 @@
 - rework input parsing
 - rework state handling
 - adjust input parsing
+- tweak output formatting
