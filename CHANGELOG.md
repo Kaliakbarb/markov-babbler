@@ -27,3 +27,4 @@
 - tweak output formatting
 - fix docs wording
 - fix validation
+- tweak naming
