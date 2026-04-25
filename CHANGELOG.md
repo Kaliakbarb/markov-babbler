@@ -30,3 +30,4 @@
 - tweak naming
 - simplify validation
 - rework docs wording
+- fix edge case handling
