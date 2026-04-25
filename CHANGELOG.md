@@ -28,3 +28,4 @@
 - fix docs wording
 - fix validation
 - tweak naming
+- simplify validation
