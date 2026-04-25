@@ -29,3 +29,4 @@
 - fix validation
 - tweak naming
 - simplify validation
+- rework docs wording
