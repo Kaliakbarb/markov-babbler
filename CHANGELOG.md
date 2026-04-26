@@ -32,3 +32,4 @@
 - rework docs wording
 - fix edge case handling
 - tighten startup flow
+- polish help text
