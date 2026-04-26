@@ -34,3 +34,4 @@
 - tighten startup flow
 - polish help text
 - tweak state handling
+- tweak config handling
