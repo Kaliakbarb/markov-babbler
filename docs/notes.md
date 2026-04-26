@@ -9,3 +9,4 @@
 - renamed things until the code read like a sentence
 - edge case: empty input used to crash, fixed
 - tried an alternative layout, kept the simple one
+- should test this on windows at some point
