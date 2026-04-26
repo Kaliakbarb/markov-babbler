@@ -15,3 +15,4 @@
 - [ ] publish a small demo
 - [ ] add tests
 - [ ] add a CI workflow
+- [ ] better error messages
