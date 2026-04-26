@@ -33,3 +33,4 @@
 - fix edge case handling
 - tighten startup flow
 - polish help text
+- tweak state handling
