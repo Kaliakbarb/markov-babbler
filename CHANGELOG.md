@@ -71,3 +71,4 @@
 - polish naming
 - improve startup flow
 - simplify input parsing
+- tighten config handling
