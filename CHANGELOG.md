@@ -69,3 +69,4 @@
 - simplify docs wording
 - tighten state handling
 - polish naming
+- improve startup flow
