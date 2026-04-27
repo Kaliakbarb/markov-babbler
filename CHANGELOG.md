@@ -70,3 +70,4 @@
 - tighten state handling
 - polish naming
 - improve startup flow
+- simplify input parsing
