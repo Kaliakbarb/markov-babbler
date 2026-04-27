@@ -48,3 +48,4 @@
 - [ ] handle unicode input
 - [ ] package it properly
 - [ ] add colors to output
+- [ ] keyboard shortcuts
