@@ -73,3 +73,4 @@
 - simplify input parsing
 - tighten config handling
 - adjust startup flow
+- simplify edge case handling
