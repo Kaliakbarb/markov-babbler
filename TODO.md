@@ -50,3 +50,4 @@
 - [ ] add colors to output
 - [ ] keyboard shortcuts
 - [ ] add a CI workflow
+- [ ] add tests
