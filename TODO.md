@@ -51,3 +51,4 @@
 - [ ] keyboard shortcuts
 - [ ] add a CI workflow
 - [ ] add tests
+- [ ] handle unicode input
