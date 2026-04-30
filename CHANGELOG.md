@@ -75,3 +75,4 @@
 - adjust startup flow
 - simplify edge case handling
 - tighten edge case handling
+- refine config handling
