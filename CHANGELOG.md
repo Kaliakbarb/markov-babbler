@@ -77,3 +77,4 @@
 - tighten edge case handling
 - refine config handling
 - tighten naming
+- rework output formatting
