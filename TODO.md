@@ -53,3 +53,4 @@
 - [ ] add tests
 - [ ] handle unicode input
 - [ ] add examples to the readme
+- [ ] performance pass
