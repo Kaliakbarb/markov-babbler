@@ -78,3 +78,4 @@
 - refine config handling
 - tighten naming
 - rework output formatting
+- simplify naming
