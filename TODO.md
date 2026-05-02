@@ -56,3 +56,4 @@
 - [ ] performance pass
 - [ ] add a CI workflow
 - [ ] refactor into modules
+- [ ] add tests
