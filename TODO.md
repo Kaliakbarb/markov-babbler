@@ -57,3 +57,4 @@
 - [ ] add a CI workflow
 - [ ] refactor into modules
 - [ ] add tests
+- [ ] add a CI workflow
