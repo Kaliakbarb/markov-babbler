@@ -55,3 +55,4 @@
 - [ ] add examples to the readme
 - [ ] performance pass
 - [ ] add a CI workflow
+- [ ] refactor into modules
