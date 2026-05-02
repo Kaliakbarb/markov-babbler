@@ -54,3 +54,4 @@
 - [ ] handle unicode input
 - [ ] add examples to the readme
 - [ ] performance pass
+- [ ] add a CI workflow
