@@ -11,3 +11,4 @@
 - tried an alternative layout, kept the simple one
 - should test this on windows at some point
 - profiled the slow path, most of the time is IO
+- sketched v2 of the interface on paper
