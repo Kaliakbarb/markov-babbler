@@ -20,3 +20,4 @@
 - [ ] handle unicode input
 - [ ] package it properly
 - [ ] add colors to output
+- [ ] add screenshots to the readme
