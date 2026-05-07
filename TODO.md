@@ -21,3 +21,4 @@
 - [ ] package it properly
 - [ ] add colors to output
 - [ ] add screenshots to the readme
+- [ ] add examples to the readme
