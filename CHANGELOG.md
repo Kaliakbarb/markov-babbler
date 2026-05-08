@@ -36,3 +36,4 @@
 - tweak state handling
 - tweak config handling
 - improve state handling
+- refine error handling
