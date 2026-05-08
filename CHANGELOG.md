@@ -39,3 +39,4 @@
 - refine error handling
 - simplify help text
 - rework error handling
+- refine edge case handling
