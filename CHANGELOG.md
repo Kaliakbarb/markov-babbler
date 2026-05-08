@@ -38,3 +38,4 @@
 - improve state handling
 - refine error handling
 - simplify help text
+- rework error handling
