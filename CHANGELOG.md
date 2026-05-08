@@ -40,3 +40,4 @@
 - simplify help text
 - rework error handling
 - refine edge case handling
+- clean up validation
