@@ -37,3 +37,4 @@
 - tweak config handling
 - improve state handling
 - refine error handling
+- simplify help text
