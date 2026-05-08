@@ -35,3 +35,4 @@
 - polish help text
 - tweak state handling
 - tweak config handling
+- improve state handling
