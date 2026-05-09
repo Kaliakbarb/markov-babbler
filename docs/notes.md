@@ -16,3 +16,4 @@
 - thought about a plugin system - overkill for now
 - found a nicer color palette, may switch later
 - removed dead code left from the prototype
+- renamed things until the code read like a sentence
