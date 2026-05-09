@@ -42,3 +42,4 @@
 - refine edge case handling
 - clean up validation
 - tweak startup flow
+- clean up main loop
