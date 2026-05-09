@@ -41,3 +41,4 @@
 - rework error handling
 - refine edge case handling
 - clean up validation
+- tweak startup flow
