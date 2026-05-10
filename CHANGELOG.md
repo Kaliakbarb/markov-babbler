@@ -44,3 +44,4 @@
 - tweak startup flow
 - clean up main loop
 - adjust config handling
+- polish state handling
