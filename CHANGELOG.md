@@ -43,3 +43,4 @@
 - clean up validation
 - tweak startup flow
 - clean up main loop
+- adjust config handling
