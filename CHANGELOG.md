@@ -45,3 +45,4 @@
 - clean up main loop
 - adjust config handling
 - polish state handling
+- fix naming
