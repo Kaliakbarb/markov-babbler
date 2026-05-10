@@ -27,3 +27,4 @@
 - [ ] keyboard shortcuts
 - [ ] dark mode
 - [ ] publish a small demo
+- [ ] add tests
