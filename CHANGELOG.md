@@ -46,3 +46,4 @@
 - adjust config handling
 - polish state handling
 - fix naming
+- clean up error handling
