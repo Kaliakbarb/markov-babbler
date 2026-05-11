@@ -51,3 +51,4 @@
 - adjust edge case handling
 - tweak input parsing
 - adjust docs wording
+- refine docs wording
