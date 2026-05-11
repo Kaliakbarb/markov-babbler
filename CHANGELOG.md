@@ -47,3 +47,4 @@
 - polish state handling
 - fix naming
 - clean up error handling
+- tighten input parsing
