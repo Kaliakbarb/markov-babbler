@@ -50,3 +50,4 @@
 - tighten input parsing
 - adjust edge case handling
 - tweak input parsing
+- adjust docs wording
