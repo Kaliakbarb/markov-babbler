@@ -54,3 +54,4 @@
 - refine docs wording
 - improve docs wording
 - tweak docs wording
+- tighten docs wording
