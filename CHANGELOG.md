@@ -55,3 +55,4 @@
 - improve docs wording
 - tweak docs wording
 - tighten docs wording
+- simplify state handling
