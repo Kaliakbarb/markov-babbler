@@ -56,3 +56,4 @@
 - tweak docs wording
 - tighten docs wording
 - simplify state handling
+- rework edge case handling
