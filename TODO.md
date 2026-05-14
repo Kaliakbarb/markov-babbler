@@ -37,3 +37,4 @@
 - [ ] add screenshots to the readme
 - [ ] add examples to the readme
 - [ ] refactor into modules
+- [ ] performance pass
