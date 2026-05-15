@@ -60,3 +60,4 @@
 - adjust main loop
 - improve edge case handling
 - clean up help text
+- refine config handling
