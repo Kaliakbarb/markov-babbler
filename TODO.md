@@ -40,3 +40,4 @@
 - [ ] performance pass
 - [ ] keyboard shortcuts
 - [ ] dark mode
+- [ ] publish a small demo
