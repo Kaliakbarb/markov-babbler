@@ -59,3 +59,4 @@
 - rework edge case handling
 - adjust main loop
 - improve edge case handling
+- clean up help text
