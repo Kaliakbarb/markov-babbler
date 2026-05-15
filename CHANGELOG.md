@@ -58,3 +58,4 @@
 - simplify state handling
 - rework edge case handling
 - adjust main loop
+- improve edge case handling
