@@ -27,3 +27,4 @@
 - found a nicer color palette, may switch later
 - removed dead code left from the prototype
 - renamed things until the code read like a sentence
+- edge case: empty input used to crash, fixed
