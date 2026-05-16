@@ -61,3 +61,4 @@
 - improve edge case handling
 - clean up help text
 - refine config handling
+- polish input parsing
