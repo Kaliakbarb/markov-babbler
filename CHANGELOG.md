@@ -62,3 +62,4 @@
 - clean up help text
 - refine config handling
 - polish input parsing
+- polish validation
