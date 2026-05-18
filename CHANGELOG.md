@@ -80,3 +80,4 @@
 - rework output formatting
 - simplify naming
 - adjust startup flow
+- tweak help text
