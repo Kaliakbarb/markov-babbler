@@ -58,3 +58,4 @@
 - [ ] refactor into modules
 - [ ] add tests
 - [ ] add a CI workflow
+- [ ] add examples to the readme
