@@ -79,3 +79,4 @@
 - tighten naming
 - rework output formatting
 - simplify naming
+- adjust startup flow
