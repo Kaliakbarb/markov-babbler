@@ -81,3 +81,4 @@
 - simplify naming
 - adjust startup flow
 - tweak help text
+- simplify edge case handling
