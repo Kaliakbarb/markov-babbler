@@ -63,3 +63,4 @@
 - refine config handling
 - polish input parsing
 - polish validation
+- rework main loop
