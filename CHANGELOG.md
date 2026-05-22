@@ -67,3 +67,4 @@
 - clean up naming
 - fix main loop
 - simplify docs wording
+- tighten state handling
