@@ -47,3 +47,4 @@
 - [ ] support a config file
 - [ ] handle unicode input
 - [ ] package it properly
+- [ ] add colors to output
