@@ -65,3 +65,4 @@
 - polish validation
 - rework main loop
 - clean up naming
+- fix main loop
