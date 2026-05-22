@@ -64,3 +64,4 @@
 - polish input parsing
 - polish validation
 - rework main loop
+- clean up naming
